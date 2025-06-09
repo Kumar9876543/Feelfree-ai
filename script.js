@@ -1,5 +1,5 @@
 // script.js
-const API_KEY = "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"; // 🔑 Use your OpenRouter API key
+const API_KEY = "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"; // 🔑 Use your OpenRouter API key
 
 document.getElementById("chat-form").addEventListener("submit", async (e) => {
   e.preventDefault();
